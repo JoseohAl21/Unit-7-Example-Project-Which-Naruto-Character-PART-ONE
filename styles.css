@@ -1,0 +1,100 @@
+body {
+    background-color: #504f96;
+}
+
+.logo {
+    margin: 50px;
+    width: 200px;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    color: #f79022;
+    font-family: 'Ranchers', cursive;
+}
+
+button {
+    color: #c0214e;
+}
+
+button:hover {
+    color: #9be4a7;
+}
+
+p {
+    font-family: 'Sora', sans-serif;
+}
+
+.results {
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid olive;
+    display: none;
+    text-align: center;
+}
+
+.counter {
+    font-family: 'Sora', sans-serif;
+    text-align: right;
+}
+
+.pictureKakashi {
+    display: none;
+    width: 300px;
+    border: 3px solid black;
+}
+
+.picturesasuke {
+    display: none;
+    width: 300px;
+    border: 3px solid black;
+}
+
+.picturenaruto {
+    display: none;
+    width: 300px;
+    border: 3px solid black;
+}
+
+.picturesakura {
+    
+    display: none;
+    width: 300px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.Q1 {
+    color:#f79022;
+    text-align: center;
+    margin:15px;
+    border:5px solid black;
+    background-color:white;
+    padding:10px;
+    font-family: 'Ranchers', cursive;
+}
+.Q2 {
+    color:#f79022;
+    text-align: center;
+    margin:15px;
+    border:5px solid black;
+    background-color:white;
+    padding:10px;
+    font-family: 'Ranchers', cursive; 
+}
+
+.button{
+        text-align: center;
+}
+
+.pictures{
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+    text-align: center;
+    font-family: 'Ranchers', cursive; 
+    color: #f79022;
+}
